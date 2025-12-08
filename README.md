@@ -66,7 +66,6 @@ https://raw.githubusercontent.com/romainmarcoux/malicious-domains/main/full-doma
 | alienvault-phishing-scam | [link](https://otx.alienvault.com/pulse/5ee7247cdb3820b358b37a71) | Phishing & scam domain names |
 | digitalside.it | [link](https://osint.digitalside.it/) | Malware and compromised URLs |
 | drb-ra | [link](https://github.com/drb-ra/C2IntelFeeds/) | C2 Domains and URLs |
-| malwarebytes.com | [link](https://www.malwarebytes.com/) | Malware and phishing Domain |
 | openphish.com | [link](https://openphish.com/) | Phishing domain |
 | phishing.army | [link](https://phishing.army/) | Phishing domain (only .fr domains and with main keywords) |
 | phishtank.org | [link](https://phishtank.org/) | Phishing domain collaborative website |
@@ -76,7 +75,7 @@ https://raw.githubusercontent.com/romainmarcoux/malicious-domains/main/full-doma
 | ut1-fr | [link](https://dsi.ut-capitole.fr/blacklists/) | Malware and phishing domains (only .fr domains and with main keywords) |
 
 # Release Notes
-- 2025-04-21: New sources: digitalside.it, drb-ra, malwarebytes.com, phishunt.io
+- 2025-04-21: New sources: digitalside.it, drb-ra, phishunt.io
 - 2024-03-03: New sources: url.abuse.ch, alienvault-phishing-scam, alienvault-cert-pl, ut1-fr, phishing.army
 - 2024-02-18: New source: phishtank.org
 - 2024-01-20: Initial release with first sources: red.flag.domains, openphish.com, alienvault-banking-phishtank, alienvault-dropbox-phishtank, alienvault-googledocs-phishtank, alienvault-microsoft-phishtank, alienvault-paypal-phishtank
